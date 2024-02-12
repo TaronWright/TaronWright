@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaronWright
-- 👀 I’m interested in space, sports, science and all things tech.
-- 🌱 I’m currently trying to learn python programming in my spare time
+- 👀 I’m interested renewable energy,data analysis and all things tech. 
+- 🌱 I’m currently trying to improve my python and javascript programming to build interactive web applications!
 - 💞️ I’m looking to collaborate on any beginner project that will show me the ropes and let me practice my python skills
 
 <!---
